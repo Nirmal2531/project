@@ -23,6 +23,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 # PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -105,6 +106,7 @@ Publish the website in the LocalHost.
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+```
 # OUTPUT:
 <img width="1034" height="590" alt="image" src="https://github.com/user-attachments/assets/212f8154-437e-43aa-8286-0cad6e04056d" />
 
